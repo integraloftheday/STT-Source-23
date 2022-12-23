@@ -23,13 +23,6 @@
 header,
 footer {
   background-color: var(--secondary-color);
-
-  @media (min-width: 500px) {
-    margin-left: auto;
-    border-left: 1px dashed;
-    width: max-content;
-    
-  }
 }
 
 header {
@@ -78,9 +71,6 @@ nav {
 }
 
 body {
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
   line-height: 1.5;
   color: var(--tertiary-color);
   font-family: 'Fira Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
@@ -104,13 +94,8 @@ body {
   top: 0;
   left: 0;
   z-index: -100;
-  width: 100%;
-  height:100%;
 }
-.full{
-  width: 100%;
-  height:100%;
-}
+
 
 
 main,
@@ -189,11 +174,14 @@ footer {
   background-color: var(--quaternary-color);
 }
 
+*:focus{
+  outline: none;
+}
+
 // Import blocks
 @import 'blocks/skip-link';
 @import 'blocks/box';
 
 // Import utilities
-@import 'utilities/site-wrap';
 @import 'utilities/visually-hidden';
 @import 'utilities/wrapper';
