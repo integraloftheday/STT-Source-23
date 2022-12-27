@@ -5,4 +5,4 @@ layout: 'layouts/about.html'
 path: 'Attendees'
 ---
 
-TBA
+To Be Announced 

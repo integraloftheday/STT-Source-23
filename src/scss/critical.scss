@@ -73,6 +73,7 @@ nav {
 body {
   line-height: 1.5;
   color: var(--tertiary-color);
+  background-color: var(--primary-color);
   font-family: 'Fira Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
     sans-serif;
   font-size: var(--body);
@@ -96,6 +97,7 @@ body {
   top: 0;
   left: 0;
   z-index: -100;
+  min-height: 100vh;
 }
 
 

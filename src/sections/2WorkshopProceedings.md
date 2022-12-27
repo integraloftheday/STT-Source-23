@@ -5,4 +5,4 @@ layout: 'layouts/about.html'
 path: 'Proceedings'
 ---
 
-TBA
+To Be Announced 
