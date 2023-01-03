@@ -136,7 +136,6 @@ a {
   &[href^="http"] {
 
     &::after {
-      content: url(/images/external-link.svg);
       position: relative;
       top: -5px;
       margin-left: calc(var(--space) / 4);
