@@ -19,82 +19,63 @@ STT 2023 will be an in-person event consisting of demo sessions, panels, talks, 
     <th>Schedule Item</th>
   </tr>
   <tr>
-    <td>9:00-9:15</td>
-    <td>Introduction</td>
+    <td>9:00-9:10</td>
+    <td>Introduction and Welcome</td>
   </tr>
   <tr>
-    <td>9:15-9:45</td>
+    <td>9:10-9:30</td>
     <td>Social Icebreaker</td>
   </tr>
   <tr>
-    <td>9:45-11:15</td>
-    <td>Panel 1: Sharing hardware and Democratizing research on STT</td>
+    <td>9:35-10:35</td>
+    <td>Panel 1: Sharing hardware & democratizing research on smell, taste & temperature</td>
+  </tr>
+  <tr>
+    <td>9:35-10:05</td>
+    <td>Panel 1: Provocation panel</td>
+  </tr>
+  <tr>
+    <td>10:05-10:15</td>
+    <td>Panel 1: Q&A</td>
+  </tr>
+  <tr>
+    <td>10:15-10:35</td>
+    <td>Panel 1: Moderated discussion with Presenters</td>
   </tr>
     <tr>
-    <td>11:15-11:30</td>
+    <td>10:35-11:50</td>
     <td>Break</td>
   </tr>
     <tr>
-    <td>11:30-13:30</td>
+    <td>11:00-13:00</td>
     <td>Demonstration Sessions</td>
   </tr>
-    <tr>
-    <td>13:30-15:00</td>
-    <td>Session 2 - Societal implications for STT interfaces</td>
+  <tr>
+    <td>13:00-14:00</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>15:00-15:15</td>
-    <td>Break</td>
+    <td>14:00-15:30</td>
+    <td>Session 2</td>
   </tr>
-    <tr>
-    <td>15:15-16:15</td>
-    <td>Group Activity</td>
+  <tr>
+    <td>14:00-14:20</td>
+    <td>Provocation by Prof. Christy Spackman (ASU)</td>
+  </tr>
+  <tr>
+    <td>14:20-14:30</td>
+    <td>Q&A</td>
+  </tr>
+  <tr>
+    <td>14:30-15:10</td>
+    <td>Breakout Groups</td>
+  </tr>
+  <tr>
+    <td>14:10-15:30</td>
+    <td>Regroup, and Sharing</td>
   </tr>
       <tr>
-    <td>18:00-19:00</td>
+    <td>17:00-18:00</td>
     <td>Optional Dinner Social</td>
-  </tr>
-</table> 
-
- <table class="table">
-   <tr>
-    <th>Day 2</th>
-  </tr>
-  <tr>
-    <th>Time</th>
-    <th>Schedule Item</th>
-  </tr>
-    <tr>
-    <td>10:00-10:20</td>
-    <td>Warm-Up Activity</td>
-  </tr>
-  <tr>
-    <td>10:20-11:50</td>
-    <td>Session 3 - Sharing Techniques and Open-Source Smell Interfaces</td>
-  </tr>
-    <tr>
-    <td>11:50-13:00</td>
-    <td>Lunch</td>
-  </tr>
-  <tr>
-    <td>13:00-14:30</td>
-    <td>Session 4 - Sharing Techniques and Open-Source Taste Interfaces</td>
-  </tr>
-    <tr>
-    <td>14:30-15:00</td>
-    <td>Break</td>
-  </tr>
-    </tr>
-    <tr>
-    <td>15:00-16:30</td>
-    <td>Session 5 - Sharing Techniques and Open-Source Thermal/Chemical Interfaces</td>
-  </tr>
-  <tr>
-    <td>16:30-17:00</td>
-    <td>Break</td>
-  </tr>
-      <tr>
-    <td>17:00-17:30</td>
-    <td>Panel 2 - Next Steps and Closing Remarkss</td>
   </tr>
 </table> 
